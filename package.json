@@ -25,8 +25,8 @@
         "url": "https://t.me/selenofobico"
     },
     "repository": {
-        "url": "https://gitlab.com/rikyricon/fantomas-theme.git",
-        "type": "gitlab"
+        "url": "https://github.com/selenofobico/fantomas-theme.git",
+        "type": "git"
     },
     "publisher": "fantomas"
 }
