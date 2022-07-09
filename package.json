@@ -1,0 +1,32 @@
+{
+    "name": "fantomas",
+    "displayName": "fantomas",
+    "description": "Tema para quienes tienen dificultad en la vista ...",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "fantomas",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fantomas-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/Fantomas.png",
+    "author": {
+        "name": "Alberto",
+        "email": "charolastra@outlook.com",
+        "url": "https://t.me/selenofobico"
+    },
+    "repository": {
+        "url": "https://gitlab.com/rikyricon/fantomas-theme.git",
+        "type": "gitlab"
+    },
+    "publisher": "fantomas"
+}
