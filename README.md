@@ -1,8 +1,10 @@
 # Tema Fantomas para visual code
 
-## Previsualización
+## Asi se ve el tema ya instalado
 
 ![Fantomas](/icons/fantomas.png)
+
+![Fantomas](/icons/fantomas2.png)
 
 
 
