@@ -2,7 +2,7 @@
     "name": "fantomas",
     "displayName": "fantomas",
     "description": "Tema para quienes tienen dificultad en la vista ...",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.69.0"
     },
@@ -28,5 +28,5 @@
         "url": "https://github.com/selenofobico/fantomas-theme.git",
         "type": "git"
     },
-    "publisher": "fantomas"
+    "publisher": "Fantomas"
 }
